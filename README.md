@@ -1,5 +1,5 @@
 # Whspdefendor Exploit Framework v1.0 💬
-![banner image](https://github.com/anezatra/whspdefendor/blob/main/banner.jpg)
+![banner image](https://github.com/R4GN4R0K-SEC/whspdefendor/blob/main/banner.jpg)
 ## What is a whspdefendor framework?
 **Whatsapp Defendor is an advanced penetration testing tool that allows us to perform penetration testing on the messaging platform WhatsApp. This tool, designed to work entirely with selenium, can also perform penetration tests for Android.**
 ## All Commands 💻
@@ -58,6 +58,7 @@ Module commands
 ` exploit/android/whatsapp/grabber_files `   
 ## How to download 💡
 **You can download whspdefendor directly by saying** <br/><br/>
+` git clone https://github.com/R4GN4R0K-SEC/whspdefendor.git ` </br>
 ` pip install -r requirements.txt `
 ## or <br/>
 ` python -m pip install -r requirements.txt ` <br/>
