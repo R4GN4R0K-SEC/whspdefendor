@@ -1,7 +1,14 @@
+**************************
 # Whspdefendor Exploit Framework v1.0 💬
 ![banner image](https://github.com/R4GN4R0K-SEC/whspdefendor/blob/main/banner.jpg)
 ## What is a whspdefendor framework?
 **Whatsapp Defendor is an advanced penetration testing tool that allows us to perform penetration testing on the messaging platform WhatsApp. This tool, designed to work entirely with selenium, can also perform penetration tests for Android.**
+**************************
+
+<p align="center">
+	<img src="https://github.com/user-attachments/assets/c03f2f69-afa8-4d7e-93c9-79f111c6f946" height="900" alt="termux runing" /p>
+	
+**************************
 ## All Commands 💻
 **The commands available in whspdefendor are as follows:**
 ```
@@ -53,18 +60,30 @@ Module commands
 	info    <module>      Get information about an available module.
 	back                  Move back from the current context.
 ```
+
+**************************
+
 ## Current modules 📋
 ` exploit/windows/whatsapp/session_hijacking ` <br/>
 ` exploit/android/whatsapp/grabber_files `   
 ## How to download 💡
+**************************
 **You can download whspdefendor directly by saying** <br/><br/>
 ` git clone https://github.com/R4GN4R0K-SEC/whspdefendor.git ` </br>
-` pip install -r requirements.txt `
+` cd whspdefendor
+` pip install -r requirements.txt ` 
 ## or <br/>
 ` python -m pip install -r requirements.txt ` <br/>
+## or for Termux <br/>
+` pip install selenium ` </br>
+` pip install undetected-chromedriver ` </br>
+## Run with this cmd
+` python3 ./whspdefendor.py `
+***************************
 ## Required python version 📌
 ` python 3.x `
 ## Required system platforms 🛠️
 **Linux Debian/Ubuntu and Windows is working**
 ## About 🚀
 **My gmail adress: anezatra@gmail.com**
+**************************
