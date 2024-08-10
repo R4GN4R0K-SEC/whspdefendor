@@ -70,8 +70,8 @@ Module commands
 **************************
 **You can download whspdefendor directly by saying** <br/><br/>
 ` git clone https://github.com/R4GN4R0K-SEC/whspdefendor.git ` </br>
-` cd whspdefendor
-` pip install -r requirements.txt ` 
+` cd whspdefendor `
+` pip install -r requirements.txt ` <br/>
 ## or <br/>
 ` python -m pip install -r requirements.txt ` <br/>
 ## or for Termux <br/>
